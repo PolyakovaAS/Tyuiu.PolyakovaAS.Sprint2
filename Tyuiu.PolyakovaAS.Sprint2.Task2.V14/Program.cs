@@ -18,3 +18,5 @@ Console.WriteLine("Введите значение Y:");
 int y = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Результат: " + ds.CheckDotInShadedArea(x, y));
 Console.ReadKey();
+
+
