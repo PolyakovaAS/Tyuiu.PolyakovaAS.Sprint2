@@ -23,3 +23,4 @@ Console.WriteLine("* РЕЗУЛЬТАТ:                                        
 Console.WriteLine("***************************************************************************");
 Console.WriteLine("Значение функции = " + res);
 Console.ReadKey();
+
